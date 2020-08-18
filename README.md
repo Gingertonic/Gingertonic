@@ -1,4 +1,7 @@
-### Hi there 👋
+This human's real ***[ name ]*** is Beth Michelle Schofield :ok_woman: . She makes things using code :computer: , sound :sound:  and imagination :thought_balloon: . Beth is currently the Senior Learning Engineer at [futureproof](https://github.com/getfutureproof/fp_guides_wiki/wiki/) where she gets to make apps about things like cats :heart_eyes_cat: and Game of Thrones :snowflake:  in order to communicate the good news about web development to students. Beth is ***[ located ]*** two abstractions away from reality. :pushpin:   But also London, UK. And sometimes Cornwall. In the future she hopes to spend more time by the ocean in the sun :sunny: , coding and playing ukulele. Beth's ***[ background ]*** is in music :musical_score:  and audio. She has a Bachelors degree in playing the recorder and a Masters in Music Technology and Innovation which have seen her walking :shoe:  the Camino de Santiago as a documentary audio engineer, designing playback systems for equestrian cabaret :carousel_horse: , touring with various Circus :circus_tent:  companies as a musician and other unexpected fun. Beth was awarded a Women Take Tech Scholarship to study :school_satchel:  Fullstack Web Development and has enjoyed the luxury of living within four walls :house_with_garden:  ever since.
+
+## Have you discussed this with your duck?
+![Have you discussed this with your duck?](https://res.cloudinary.com/gingertonic/image/upload/v1597707915/GTS/ducky.jpg)
 
 <!--
 **Gingertonic/Gingertonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
