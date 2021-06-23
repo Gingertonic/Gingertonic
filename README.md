@@ -13,7 +13,7 @@ Beth makes things using code :computer: , sound :sound:  and imagination :though
 
 
 #### Have you discussed this with your duck?
-![Have you discussed this with your duck?](./images/ducky.jpeg)
+![Have you discussed this with your duck?](./duck_banner.jpg)
 
 <!--
 **Gingertonic/Gingertonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
